@@ -390,6 +390,11 @@ span {
                      <label for="password">Password</label>
                      <div class="tooltip" data-text="Enter your password"></div>
                   </span>
+                <span>
+                     <input class="tip" name="c-password" type="password" maxlength="16" onclick="onClick(this);" onblur="onBlur(this);">
+                     <label for="password">Confirm Password</label>
+                     <div class="tooltip" data-text="Enter your password"></div>
+                  </span>
 				<a href="#" style="font-size:12px;width:100%;margin-left:200px;line-height:10px">Forgot password?</a>
 			</div>
 			<!-- / #login_content -->
