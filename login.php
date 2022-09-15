@@ -400,13 +400,13 @@ span {
 			<!-- / #login_content -->
 			<div id="login_footer">
 				<button id="login_btn" type="submit">Login</button>
-				<div><a id="register_link" href="javascript:void(0);">Registered</a>
+				<div><a id="register_link" href="https://webbo02.000webhostapp.com/user_data.php">Registered</a>
 				</div>
 			</div>
 		</form>
 
 
-		<form id='register' method='post'><input type='hidden' name='form-name' value='register' />
+		<!-- <form id='register' method='post'><input type='hidden' name='form-name' value='register' />
 			<div id="register_header">Registered</div>
 			<div id="register_content">
 				<span>
@@ -426,7 +426,7 @@ span {
 			</div>
 			<div><a id="login_link" href="javascript:void(0);">Login</a>
 			</div>
-		</form>
+		</form> -->
 
 
 	</div>
